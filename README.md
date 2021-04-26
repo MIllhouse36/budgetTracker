@@ -2,7 +2,7 @@
 
 # Budget-tracker 
 
-## Descriptions
+### Descriptions
 tracks expenses
 
 ## Installation
