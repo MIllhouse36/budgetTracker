@@ -1,13 +1,6 @@
 
 
-# budget tracker 
-## Table of Contents 
-[Descriptions](#Descriptions)
-[Installation](#Installation)
-[Usage](#Usage)
-[Contribution](#Contribution)
-[Questions](#Questions)
-
+# budget-tracker 
 ## Descriptions
 tracks expenses
 ## Installation
