@@ -3,17 +3,9 @@
 # budget tracker 
 ## Table of Contents 
 [Descriptions](#Descriptions)
-
 [Installation](#Installation)
-
 [Usage](#Usage)
-
-[License](#License)
-
-[Test](#Test)
-
 [Contribution](#Contribution)
-
 [Questions](#Questions)
 
 ## Descriptions
@@ -24,8 +16,6 @@ npm install
 it's a class project
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## Test
-N/A
 ## Contributions
 just make a pull request
 ## Questions 
