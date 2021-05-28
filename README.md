@@ -2,6 +2,8 @@
 # Budget-tracker 
 ![Budget-tracker](https://user-images.githubusercontent.com/37388720/119863137-42100100-bee7-11eb-9dc4-358de2aa0f3c.png)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 Budget-tracker, as the name implies tracks expenses and funds and generates a visualized graph of all of your spending over time. This app will help the user track trends in their spending and aid in making a budget and sticking to it. 
 
@@ -35,15 +37,15 @@ and your off to the races with your development environment for this project.
 ## Dependencies
 compression, express, lite-server, mongoose, morgan
 
-## Author 
-If you have and questions contact me @
-[Kevin Millhouse](https://github.com/MIllhouse36)
-or [Email](https://millhousekevin@gmail.com)
 ## Host
 https://budget-tracker-kevin-millhouse.herokuapp.com/
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Questions 
-If you have and questions contact me @ [My Github](https://github.com/MIllhouse36) or [Email](https://Millhousekevin@gmail.com)
+## Author and Contact
+If you have and questions contact me @
+[Kevin Millhouse](https://github.com/MIllhouse36)
+or [Email](https://millhousekevin@gmail.com)
+
+
+
+
