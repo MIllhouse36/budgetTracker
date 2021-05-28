@@ -11,7 +11,7 @@ Budget-tracker, as the name implies tracks expenses and funds and generates a vi
  Using this app is as simple as going [the deployed website](https://budget-tracker-kevin-millhouse.herokuapp.com/)
 typing in a name designation for your transaction and cost of the transcation and then clicking "add" or "subtract" depending on whether your transaction is an addition or deduction of funds. You will then be show a graph charting your day to day spendings. This site also keeps a databse log of your spending so everytime you visit you can update your total funds and view previous transactions. 
 
-## Contributing to # Budget-tracker  
+## Contributing to Budget-tracker  
 To contribute to Budget-tracker , follow these steps:
 
 1. Fork this repository.
