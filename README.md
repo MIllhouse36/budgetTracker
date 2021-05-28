@@ -37,6 +37,9 @@ and your off to the races with your development environment for this project.
 ## Dependencies
 compression, express, lite-server, mongoose, morgan
 
+## Project status
+Development of this projects has been halted with plans to covert this project into a full stack react application with user authentication.
+
 ## Host
 https://budget-tracker-kevin-millhouse.herokuapp.com/
 
