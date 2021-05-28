@@ -8,7 +8,7 @@
 Budget-tracker, as the name implies tracks expenses and funds and generates a visualized graph of all of your spending over time. This app will help the user track trends in their spending and aid in making a budget and sticking to it. 
 
 ## Usage 
- using this app is as simple as going [the deployed website](https://budget-tracker-kevin-millhouse.herokuapp.com/)
+ Using this app is as simple as going [the deployed website](https://budget-tracker-kevin-millhouse.herokuapp.com/)
 typing in a name designation for your transaction and cost of the transcation and then clicking "add" or "subtract" depending on whether your transaction is an addition or deduction of funds. You will then be show a graph charting your day to day spendings. This site also keeps a databse log of your spending so everytime you visit you can update your total funds and view previous transactions. 
 
 ## Contributing to # Budget-tracker  
@@ -35,7 +35,7 @@ npm install
 and your off to the races with your development environment for this project.
 
 ## Dependencies
-compression, express, lite-server, mongoose, morgan
+compression, express, lite-server, mongoose, morgan, bootstrap
 
 ## Project status
 Development of this projects has been halted with plans to covert this project into a full stack react application with user authentication.
