@@ -15,9 +15,9 @@ typing in a name designation for your transaction and cost of the transcation an
 To contribute to Budget-tracker , follow these steps:
 
 1. Fork this repository.
-2. Create a branch: `git checkout -b # Budget-tracker  `.
+2. Create a branch: `git checkout -b Budget-tracker  `.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin # Budget-tracker /<location>`
+4. Push to the original branch: `git push origin Budget-tracker /<location>`
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
